@@ -1,5 +1,6 @@
 # This is Vahid's profile.
-Vahid is a solution maker! What is it mean? It's simple... no matter what industry or field is a problem source, you explain it to Vahid, and if he accept the challenge, he will find a solution tailored with your limitations.
+Vahid is a Puzzle Lover, an extraordinary Problem Solver (solution maker), and  a Data Scientist with extensive background in ML, AI, Machine Vision, and specially ANN.
+
 Let's explain it with some real world case studies that Vahid solved:
 ## Problem #1: Pixel-by Pixel Calibration of Modular Displays (LED Signs, LED Walls, stc.)
 ### Problem:

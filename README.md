@@ -2,9 +2,8 @@
 Vahid is a Puzzle Lover, an extraordinary Problem Solver (solution maker), and  a Data Scientist with extensive background in ML, AI, Machine Vision, and specially ANN.
 
 Let's explain it with some real world case studies that Vahid solved:
-## Problem #1: Pixel-by Pixel Calibration of Modular Displays (LED Signs, LED Walls, stc.)
+## Problem #1: Digital Billboards' Image Degradation
 ### Problem:
-Modular Displays, specially outdoor ones, starting changing their colors after a while, and this decoloring is not the same for all pixels. So after a while, the content plays on them in a way that not very satisfying and sometimes diturb the view so much that it is better to be off!
+Out-of-Home (OOH) Digital Displays, specially outdoor ones, suffer from immage degradation due to environmental factors, such as UV exposure, Dirt, Ambient Temperature, and harsh weather, face with issues such as Color disparity and brightness mismatch. A display normally has lifespan of +15 years, but due to image degradation, they need to be replaced after 3-5 years, wasting millions of dollars and poluting our planets.
 ### Solution:
-Vahid comes with the idea of calibrating them pixel-bypixel in a way they look like a brand new display! To do so, he made a few experiment, define what gears neede, and also made a calibration software that is compatible with every single screen! 
-This is the first time in display industry that a software can calibrate every display, and there is no other solution that can calibrate a display at the site without dark rooms and other special treatments these kind of procee needs.
+Vahid used AI and made a SaaS solution for this problem, matching color and brightness of every pixel of the display, enhance its image quality better than the brand new one [(click here for the results)](https://blueglamour.co/gallery/).
